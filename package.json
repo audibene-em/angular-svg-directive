@@ -1,0 +1,16 @@
+{
+  "name": "angular-svg-directive",
+  "version": "1.0.0",
+  "description": "An angular.js directive for using svg as image/icon",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/audibene-em/angular-svg-directive.git"
+  },
+  "author": "Inbar Dagan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/audibene-em/angular-svg-directive/issues"
+  },
+  "homepage": "https://github.com/audibene-em/angular-svg-directive"
+}
